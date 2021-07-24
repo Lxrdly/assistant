@@ -1,2 +1,2 @@
-# assistant
-Assistant's public source code.
+# LMAO
+You thought.
